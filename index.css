@@ -1,0 +1,28 @@
+
+.divBacground1{background-color: pink;
+    width: 40cm;
+    height: 13.2cm; border-radius: 10%; display: flex;}
+.divbackgroun2{background-color: white; text-align: right; width: 10cm; border-radius: 10%; border: 5px solid deeppink;
+    height: 13cm; margin-right: 10cm;}
+.button1{border: 3px solid white; background-color: white; border-radius: 15%;  width: 2cm; height: 1cm; font-size: 15px;}
+    .inlineElement{display: inline-block;}
+.input{width: 350px; height: 35px; border: 2px solid deeppink; align-content: center; align-items: center; margin-right: 8px;}
+.label{font-size: 20px; align-items:center; color: lightpink; margin-right: 8px;}
+.button{border-radius: 10%; border: 5px solid deeppink; width: 5cm; height: 1.5cm; margin-top: 40px; margin-right: 90px; background-color: white; }
+.hr{border-color: lightpink; border-radius: 5%; width: 350px; height: 5px; background-color: lightpink;}
+.img{width: 7cm; height: 10;}
+
+.divImg{display: flex;}
+.prgh{font-size: 25px;}
+.hr1{border-color: pink; border-radius: 5%; width: 1500px; height: 5px; background-color: lightpink;}
+.divSkills{background-color: white; width: 7cm; border-radius: 10%; border: 5px solid deeppink; margin-right: 100px; margin-top: 50px;
+    height: 5cm; }
+    .ul{font-size: x-large;}
+    .imgMe{height: 13.2cm; width: 13cm; margin-left: 5.4cm;}
+    .imgSkill{height: 8cm; width: 11cm; margin-right: 0.1cm;}
+    .imcExeprience{height: 9cm; width: 10cm;}
+
+.divExperience{background-color: white;  border: 5px solid deeppink; height: 8cm; width: 26.7cm;
+     margin-left: 1cm; margin-top: 30px; margin-bottom: 50px;}
+     .ulTextSize{font-size: 25px;}
+.select{width: 2cm; height: 0.7cm; border: 3px solid deeppink; border-color: deeppink;}
